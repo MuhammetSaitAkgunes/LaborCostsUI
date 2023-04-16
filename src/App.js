@@ -1,8 +1,9 @@
 import './App.css';
+import AddPersonelForm from './screens/AddPersonel';
 
 function App() {
   return (
-    <div>hi guys bruh</div>
+    <AddPersonelForm/>
   );
 }
 
